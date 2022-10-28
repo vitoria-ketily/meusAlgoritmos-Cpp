@@ -5,6 +5,6 @@ using namespace std;
         cout<<"digite o valor:"<<endl;
         cin>>valor;
         cout<<"Seu antecessor é:"<<valor-1;
-        cout<<"Seu sucessor é:"<<valor-1;       
+        cout<<"Seu sucessor é:"<<valor+1;       
         return 0;
     }
